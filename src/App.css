@@ -1,0 +1,32 @@
+.read-the-docs {
+  color: #888;
+}
+
+.section-title {
+  background-color: rgb(56, 152, 122);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+  font-size: larger;
+  text-align: center;
+}
+
+main {
+  background-color: rgb(24, 78, 61);
+  font-family: Arial, Helvetica, sans-serif;
+  place-items: center;
+  text-align: left;
+}
+
+div {
+  display: grid;
+  place-items: center;
+}
+
+code {
+  background-color: rgb(100, 100, 100);
+}
+
+pre {
+  background-color: white;
+}
