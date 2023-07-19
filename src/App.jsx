@@ -39,7 +39,7 @@ function App() {
       mangle:false,
       headerIds:false,
     });
-    console.log(typeof md)
+    
     setText(md);
   }
 
