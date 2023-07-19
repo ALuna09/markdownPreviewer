@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "http://aluna09.github.io/markdownpreviewer",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
